@@ -34,6 +34,8 @@ Os usuários podem adicionar ou remover itens e gerenciar essa lista.
 
 ## 📫 Exemplo de Uso
 
+![Demonstração](./gif.gif)
+
 
 ## 📜 Licença 
 
